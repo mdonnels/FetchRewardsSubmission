@@ -1,0 +1,6 @@
+com\fetchproject\transactions\Transaction.class
+com\fetchproject\transactions\TransactionsService.class
+com\fetchproject\transactions\TransactionsServiceImpl.class
+com\fetchproject\transactions\MainController.class
+com\fetchproject\transactions\TransactionsApplication.class
+com\fetchproject\transactions\TransactionsRepository.class
